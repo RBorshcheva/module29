@@ -1,0 +1,3 @@
+[2021-02-16T20:33:41.441135+00:00] mylogger.WARNING: Use english alphabet or nums [] []
+[2021-02-16T20:36:55.445995+00:00] mylogger.WARNING: log length min 3 and max 30 [] []
+[2021-02-16T20:37:20.949883+00:00] mylogger.WARNING: Incorrect loggin or password [] []

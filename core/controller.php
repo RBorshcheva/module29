@@ -13,7 +13,6 @@ class Controller {
 		$this->model = new Model();
 		$this->view = new View();
 		
-		// logger create
 		$this->log = new Logger('mylogger');
 		$this->log->pushHandler(new StreamHandler('mylog.log', Logger::WARNING));
         $this->log->pushHandler(new StreamHandler('troubles.log', Logger::ALERT));

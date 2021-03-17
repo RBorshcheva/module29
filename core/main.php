@@ -20,7 +20,7 @@ class Main {
 				$page_name = 'main';
 				break;
 			case '2':
-				$page_name = 'registration';
+				$page_name = 'register';
 				break;
 			case '3':
 				$page_name = 'login';

@@ -16,7 +16,7 @@ class View
 				'response_type' => 'code'
 			);
 			
-			echo $link = '<p><a href="' . $url . '?' . urldecode(http_build_query($params)) . '">VK sign UP </a></p>';
+			echo $link = '<p><a href="' . $url . '?' . urldecode(http_build_query($params)) . '">VK sign in </a></p>';
 		}		
 		
 		
